@@ -117,3 +117,35 @@ body {
   padding-left: 250px;
   padding-top: 100px;
 }
+
+.recipe-details h1 {
+  font-size: 4em;
+  text-align: center;
+}
+
+.recipe-details p {
+  font-size: 1.2em;
+  text-align: center;
+  padding: 0 300px;
+}
+
+.food-col {
+  box-shadow: 3px 3px 20px rgba(128, 128, 128, 0.2);
+  margin: 0 50px;
+  padding: 30px;
+  border-radius: 20px;
+  margin: 0 100px;
+}
+
+.food-col img {
+  width: 100%;
+}
+
+.food-col h2 {
+  font-size: 2em;
+}
+
+.food-col p {
+  width: 100%;
+  text-align: left;
+}
